@@ -54,8 +54,7 @@ This repository contains an interactive COVID-19 dashboard built using Dash and 
 ├── README.md               # Documentation
 ```
 
-## Screenshots
-[Add screenshots of the dashboard here to give users a preview of its features.]
+
 
 ## Future Enhancements
 - Real-time data integration for live updates.
